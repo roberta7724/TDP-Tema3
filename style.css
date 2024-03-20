@@ -1,0 +1,35 @@
+h1
+{
+     color:blue;
+     background-color: aquamarine;
+}
+.titlu2
+{
+    background-color: rgb(188, 21, 21);
+    width: 300px;
+    font-size: 20px;
+    text-align: center;
+}
+.buton
+{
+    padding: 20px;
+    border-radius: 100px;
+}
+
+button{
+    font-size: 15px;
+    color: white;
+    background-color: red;
+    border-radius: 20px;
+    padding: 20px;
+}
+.buton2
+{
+    background-color: blue;
+}
+.x{
+    background-color: beige;
+    border-radius: 16px;
+    width:120px;
+    padding: 20px;
+}
